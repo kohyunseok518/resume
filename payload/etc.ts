@@ -10,6 +10,12 @@ const etc: IEtc.Payload = {
       startedAt: '2026-09',
       endedAt: '2026-09',
     },
+    {
+      title: '육군 병장 만기 전역',
+      subTitle: '',
+      startedAt: '2022-08',
+      endedAt: '2024-02',
+    },
   ],
 };
 

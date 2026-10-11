@@ -9,6 +9,7 @@ const project: IProject.Payload = {
       endedAt: '2026-10',
       where: 'BE 2명 / FE 2명 | 팀장, 백엔드·인프라',
       descriptions: [
+        { content: 'GitHub:', postHref: 'https://github.com/seoil-power-rangers' },
         { content: '축제 3일 운영, 가입자 445명 · 매칭 463건 · 채팅 6,156건', weight: 'MEDIUM' },
         {
           content:
@@ -30,7 +31,6 @@ const project: IProject.Payload = {
           content:
             '기술스택: Java 21, Spring Boot 3, JPA, MySQL, Redis, WebSocket(STOMP), AWS, GitHub Actions',
         },
-        { content: 'GitHub:', postHref: 'https://github.com/seoil-power-rangers' },
       ],
     },
     {
@@ -39,6 +39,7 @@ const project: IProject.Payload = {
       endedAt: '2026-08',
       where: 'BE 2명 / FE 2명 / AI 1명 | AI 서버 전담',
       descriptions: [
+        { content: 'GitHub:', postHref: 'https://github.com/KB7-25-2/FirstFolio-AI' },
         { content: '금융 교과서·뉴스 RAG 기반 퀴즈 등 콘텐츠 생성 서버', weight: 'MEDIUM' },
         {
           content:
@@ -55,7 +56,6 @@ const project: IProject.Payload = {
         {
           content: '기술스택: Python, FastAPI, OpenAI API, LangChain, BM25(Kiwi), FAISS, MySQL, S3',
         },
-        { content: 'GitHub:', postHref: 'https://github.com/KB7-25-2/FirstFolio-AI' },
       ],
     },
     {
@@ -64,6 +64,7 @@ const project: IProject.Payload = {
       endedAt: '2026-09',
       where: 'BE 2명 / FE 2명 / AI 1명 | AI 서버 담당',
       descriptions: [
+        { content: 'GitHub:', postHref: 'https://github.com/jittaejap/sottaejap-ai' },
         {
           content: '금융 질문 답변(RAG)과 소비 분석·회고 대화를 처리하는 AI 서버, 해커톤 장려상',
           weight: 'MEDIUM',
@@ -83,7 +84,6 @@ const project: IProject.Payload = {
         {
           content: '기술스택: Python, FastAPI, OpenAI API, PostgreSQL(pgvector), BM25(Kiwi)',
         },
-        { content: 'GitHub:', postHref: 'https://github.com/jittaejap/sottaejap-ai' },
       ],
     },
   ],
