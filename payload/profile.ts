@@ -14,8 +14,8 @@ const profile: IProfile.Payload = {
   },
   contact: [
     {
-      title: 'type4416@gmail.com',
-      link: 'mailto:type4416@gmail.com',
+      title: '7580750@naver.com',
+      link: 'mailto:7580750@naver.com',
       icon: faEnvelope,
     },
     {
